@@ -1,0 +1,9 @@
+Size of the alphabet: 4
+Number of patterns: 2
+Total size of the patterns: 10
+Size of the text: 4000
+d (Total number of degenerate/non-solid positions): 5
+Number of clustred-clumps: 18
+Time Elapsed for processing: 0.111129 secs.
+(425,4) ; (882,4) ; (1077,4) ; (1320,4) ; (1332,4) ; (1448,4) ; (1534,4) ; (1808,6) ; (2224,4) ; (2416,6) ; (2435,4) ; (2469,4) ; (2979,4) ; (3056,4) ; (3274,4) ; (3591,4) ; (3748,4) ; (3831,4) ; 
+
